@@ -1,0 +1,2 @@
+# Premium-PHP-Fusion-Addons
+These Addons will be sold on the PHP-Fusion Premium Addons Website that is currently being Developed &amp; Designed. The creator of the Addon will retain all rights to the Addon, unless they choose to sell their rights to VPC, and will receive 70% of all commission after any fees from all sales of their Addons. Premium Accounts will be available so Addon Creators can receive up to 90% of Commission from all sales of their Addons. VPC will buy the rights to any and all Addons from the original Creator.
